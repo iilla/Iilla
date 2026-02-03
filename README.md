@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://iilla-portfolio.epizy.com/](https://iilla-portfolio.epizy.com/)
 
-- 📫 How to reach me **iilla@tutamail.com**
+- 📫 You can reach me **iilla@tutamail.com**
 
 - 📄 Know about my experiences [https://iilla-portfolio.epizy.com/Curriculum-2025-ENG.pdf](https://iilla-portfolio.epizy.com/Curriculum-2025-ENG.pdf)
 
