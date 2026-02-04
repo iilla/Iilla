@@ -48,6 +48,12 @@
   <a href="https://prestashop.com/" target="_blank" rel="noreferrer"><img src="images/prestashop-logo.png" alt="prestashop" width="40" height="40"/></a>
 
   <br />
+
+  <a href="https://sourceforge.net/projects/os-sim/" target="_blank" rel="noreferrer"><img src="images/AlienVault-icon-Github.png" alt="AlienVaultSIEM" width="40" height="40"/></a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="images/kali-linux-icon-Github.png" alt="Kali-Linux" width="40" height="40"/></a>
+  <a href="https://www.sophos.com/en-us/products/next-gen-firewall" target="_blank" rel="noreferrer"><img src="images/sophos-favicon-icon-Github.png" alt="sophos" width="40" height="40"/></a>
+
+  <br />
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
