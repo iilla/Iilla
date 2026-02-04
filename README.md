@@ -43,7 +43,7 @@
   
   <br />
 
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="images/wordpress-logo.png" alt="wordpress" width="40" height="40"/></a>
+  <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="images/wordpress-logo-2.png" alt="wordpress" width="40" height="40"/></a>
   <a href="https://prestashop.com/" target="_blank" rel="noreferrer"><img src="images/prestashop-logo.png" alt="prestashop" width="40" height="40"/></a>
 
   <br />
