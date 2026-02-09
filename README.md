@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at **iilla@tutamail.com**
 
-- 📄 Know about my experiences: [https://iilla-portfolio.epizy.com/Curriculum-2025-ENG.pdf](https://iilla-portfolio.epizy.com/Curriculum-2025-ENG.pdf)
+- 📄 Know about my experiences: [https://iilla-portfolio.epizy.com/Curriculum-2025-ENG.pdf](https://iilla-portfolio.epizy.com/Curriculum-ENG.pdf)
 
 - 💬 Ask me about... Dungeons and Dragons! 
 
